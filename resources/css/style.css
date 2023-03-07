@@ -33,3 +33,46 @@ body{
     text-align: center;
     padding: 1.1rem 0;
 }
+
+.mock-video{
+    margin: 1.1rem 0;
+    text-align: center;
+}
+
+.heading{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    padding: 1.1rem 0;
+}
+
+.description{
+    font-size: 21px;
+    color: grey;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.camp-image p{
+    text-align: center;
+}
+
+.camp-image p img{
+    margin: 1.5rem 0;
+}
+
+.phone-image p{
+    text-align: center;
+}
+
+.phone-image p img{
+    margin: 1rem 0;
+}
+
+footer p{
+    color: grey;
+    text-align: right;
+    padding: 1rem;
+    font-size: 21px;
+}
