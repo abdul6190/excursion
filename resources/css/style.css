@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana;
+    background-color: rgb(20, 20, 20);
+}
+
+
+.wrapper{
+    width: 1400px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.main-heading{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.download-link a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.download-link{
+    text-align: center;
+    padding: 1.1rem 0;
+}
